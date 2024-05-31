@@ -17,7 +17,7 @@ body {
   width: 100%;
   height: 100%;
   background: #0e1c26;
-  /* background: linear-gradient(to right, #0e1c26, #2a454b); */
+
   position: relative;
   display: flex;
   justify-content: space-between;
